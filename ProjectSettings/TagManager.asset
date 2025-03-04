@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Potal2
+  - Potal
+  - ground
+  - Enemy
+  - Chest
+  - Leader
+  - Jumping
+  - enemy
+  - Chest1
+  - Chest2
+  - Chest3
+  - ladder_tips
+  - jump_tips
+  - spawnpoint
+  - rock
+  - outmap
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - player
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: sky
+    uniqueID: 1768891333
+    locked: 0
+  - name: water
+    uniqueID: 208561595
+    locked: 0
+  - name: Background
+    uniqueID: 2424153585
+    locked: 0
+  - name: propsback
+    uniqueID: 3649705985
+    locked: 0
+  - name: midground
+    uniqueID: 481386221
+    locked: 0
+  - name: propsmid
+    uniqueID: 2673671835
+    locked: 0
+  - name: potal
+    uniqueID: 3155780969
+    locked: 0
+  - name: anemy
+    uniqueID: 3973785957
+    locked: 0
+  - name: player
+    uniqueID: 2153875221
+    locked: 0
+  - name: ball
+    uniqueID: 3768163801
+    locked: 0
+  - name: text
+    uniqueID: 463562675
+    locked: 0
+  - name: Foreground
+    uniqueID: 3928980359
+    locked: 0
+  - name: propsfont
+    uniqueID: 378146839
+    locked: 0
+  - name: incam
+    uniqueID: 1463463755
+    locked: 0
